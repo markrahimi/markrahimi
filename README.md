@@ -1,16 +1,47 @@
 ### Hi there 👋
 
-<!--
-**markrahimi/markrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm "Mohammad Ali Rahimi"** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+🧑‍💻 With nearly 10 years of programming experience, I have successfully delivered over 50 projects and collaborated with 12 different organizations. I specialize in both front-end and back-end programming. I am constantly learning and evolving to develop systems that make me a valuable and reliable developer.I have also taken on leadership roles, working as a team leader. This experience has further enhanced my skills in time management, project management and business management.
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=markrahimi&theme=dark&border_radius=5.6&card_width=500)](https://git.io/streak-stats)
+
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markrahimi\&hide_progress=true&theme=dark)
+
+
+### Technologies
+
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
+![wordpress](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/Next.js-000?&logo=Next.js)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+
+### Connect with me:
+
+<p>
+  <a href="https://www.linkedin.com/in/markrahimi/"><img src="https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin"/></a>
+   <a href="mailto:imarkrahimi@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail"/></a>
+  <a href="https://www.instagram.com/in/markrahimi/"><img src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram"/></a>
+</p>
+
