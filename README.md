@@ -8,7 +8,9 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=markrahimi&theme=dark&border_radius=5.6&card_width=500)](https://git.io/streak-stats)
-
+<!-- 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markrahimi&theme=dark"> 
+-->
 
 ### Languages
 
