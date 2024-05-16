@@ -28,12 +28,7 @@
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
-![wordpress](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/Next.js-000?&logo=Next.js)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
