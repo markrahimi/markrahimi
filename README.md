@@ -4,7 +4,7 @@
 
 
 ### About me:
-🧑‍💻 With nearly 10 years of programming experience, I have successfully delivered over 50 projects and collaborated with 12 different organizations. I specialize in both front-end and back-end programming. I am constantly learning and evolving to develop systems that make me a valuable and reliable developer.I have also taken on leadership roles, working as a team leader. This experience has further enhanced my skills in time management, project management and business management.
+I have successfully delivered over 50 projects and collaborated with 12 different organizations. I specialize in both front-end and back-end programming. I am constantly learning and evolving to develop systems that make me a valuable and reliable developer.I have also taken on leadership roles, working as a team leader. This experience has further enhanced my skills in time management, project management and business management.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=markrahimi&theme=dark&border_radius=5.6&card_width=500)](https://git.io/streak-stats)
@@ -32,6 +32,9 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/Next.js-000?&logo=Next.js)
+
 
 
 ### Connect with me:
