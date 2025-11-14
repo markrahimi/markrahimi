@@ -15,6 +15,7 @@ I have successfully delivered over 50 projects and collaborated with 12 differen
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -34,7 +35,6 @@ I have successfully delivered over 50 projects and collaborated with 12 differen
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/Next.js-000?&logo=Next.js)
-
 
 
 ### Connect with me:
