@@ -190,15 +190,6 @@ Led a development team and built backend and full-stack products in parallel. Co
 
 ---
 
-## Beyond the code
-
-- I lead teams, plan roadmaps and manage delivery. Time management and project management are part of my job, not an afterthought.
-- I write technical documentation seriously, including full internal references and training material.
-- I self-host and maintain my own infrastructure, which keeps me honest about what "it works on my machine" really costs.
-- Certified: **Meta Back-End Developer**, **Introduction to AI**.
-
----
-
 <div align="center">
 
 **Looking for someone who can own a system end to end, from model to metal? Let's talk.**
