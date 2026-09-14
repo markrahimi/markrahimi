@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+%26+AI+Engineer;LLM+Agents%2C+RAG+Pipelines+%26+Backend+Systems;M.Sc.+Cyber-Physical+Systems+%40+Mines+Saint-%C3%89tienne;4+years+of+production+engineering+experience" alt="headline" />
 
-# Mohammad Ali Rahimi
+# Mohammad Ali RAHIMI
 
 **Software Engineer &amp; AI Engineer** · Saint-Étienne, France
 
