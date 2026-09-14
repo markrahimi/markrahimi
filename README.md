@@ -31,7 +31,7 @@ I build software that runs in production, not demos that die in a notebook.
 
 - **4 years as a software engineer**, building and maintaining backend and full-stack systems that real users depend on.
 - **5 months as an AI Engineering intern at a UK-based company**, working hands on with **LangChain**, **LangGraph**, **MCP**, RAG pipelines and multi-step agent architectures.
-- Former **CTO** at Rahrawan Technical &amp; Engineering and **Team Lead** at DANAPCO. I have shipped systems and I have led the people who build them.
+- Former **Team Lead** at Rahrawan Technical &amp; Engineering and at DANAPCO. I have shipped systems and I have led the people who build them.
 - Currently completing an **M.Sc. in Computer Science (CPS2, Cyber-Physical Systems)**, jointly delivered by **École des Mines de Saint-Étienne** and **Université Jean Monnet**.
 - **AI Engineer (part-time)** at Angelis Academy, working on **AGENTIA CONNECT**, an applied AI platform.
 - I own what I ship: architecture, code, tests, Docker images, the server it runs on and the incident at 2 a.m.
