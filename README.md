@@ -31,7 +31,7 @@ I build software that runs in production, not demos that die in a notebook.
 
 - **4 years as a software engineer**, building and maintaining backend and full-stack systems that real users depend on.
 - **5 months as an AI Engineering intern at a UK-based company**, working hands on with **LangChain**, **LangGraph**, **MCP**, RAG pipelines and multi-step agent architectures.
-- Former **Team Lead** at Rahrawan Technical &amp; Engineering and **Team Lead** at DANAPCO. I have shipped systems and I have led the people who build them.
+- Former **CTO** at Rahrawan Technical &amp; Engineering and **Team Lead** at DANAPCO. I have shipped systems and I have led the people who build them.
 - Currently completing an **M.Sc. in Computer Science (CPS2, Cyber-Physical Systems)**, jointly delivered by **École des Mines de Saint-Étienne** and **Université Jean Monnet**.
 - **AI Engineer (part-time)** at Angelis Academy, working on **AGENTIA CONNECT**, an applied AI platform.
 - I own what I ship: architecture, code, tests, Docker images, the server it runs on and the incident at 2 a.m.
@@ -44,7 +44,6 @@ I build software that runs in production, not demos that die in a notebook.
 | :--- | :--- |
 | **LLM &amp; Agents** | LangChain and LangGraph agent architectures, **MCP** servers and tool integration, ReAct loops, short and long term memory, human-in-the-loop, streaming |
 | **RAG at production grade** | Retrieval pipelines over PostgreSQL + pgvector, Chain-of-Thought lookup, evaluation and reliability testing |
-| **Computer Vision &amp; 3D** | Metric depth estimation (ZoeDepth, Metric3D v2, Depth Pro), 2D to textured 3D GLB pipelines, scale and size estimation |
 | **Backend** | FastAPI and Django services, Celery workers, Redis, PostgreSQL, clean domain-driven module boundaries |
 | **Frontend** | Next.js 15 App Router, React, TypeScript, Vue 3, Zustand, TanStack Query, Tailwind, i18n |
 | **Infrastructure** | Docker Compose, Nginx / reverse proxies, MinIO object storage, CI/CD, self-managed VPS on OVH, SSL and DNS |
@@ -114,60 +113,50 @@ I build software that runs in production, not demos that die in a notebook.
 
 ---
 
-## Selected work
+## Where I have worked
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### LangGraph RAG Agent
-Production-grade agent built on **LangGraph** with retrieval over **PostgreSQL + pgvector**. Includes Chain-of-Thought retrieval, streaming responses, persistent memory and an automated test and reliability layer.
+### Immersial
+**AI Engineering Intern, 5 months (UK)**
 
-`LangGraph` `FastAPI` `pgvector` `OpenAI`
+Worked on **Beestoon**, a pipeline converting single 2D images into metric-accurate textured **3D GLB models**. Combined monocular metric depth estimation (ZoeDepth, Metric3D v2, Depth Pro) with LLM-based object dimension priors to solve the rescaling problem. Also built a production-grade **LangGraph + RAG** agent over PostgreSQL and pgvector, with **MCP** tool integration, streaming, persistent memory and an automated reliability test layer.
 
-</td>
-<td width="50%" valign="top">
-
-### 2D to 3D Reconstruction (Beestoon.ai)
-Research and engineering on converting single images into **metric-accurate textured 3D GLB models**. Combined monocular metric depth estimation with LLM-based object dimension priors to solve the rescaling problem.
-
-`Python` `Depth Estimation` `LLM` `3D/GLB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### MandooEditor
-Open-source **WYSIWYG rich-text editor** for React and Next.js. **Zero runtime dependencies**, under **300 KB**. Built because every existing option was either bloated or unmaintained.
-
-`TypeScript` `React` `Next.js` `Open Source`
+`LangGraph` `LangChain` `MCP` `RAG` `pgvector` `Depth Estimation` `3D/GLB`
 
 </td>
 <td width="50%" valign="top">
 
-### Reserve / Nowbati
-Multi-tenant booking platform on **Next.js 15 + FastAPI + Supabase**. Led a phased architectural refactor: feature-module restructuring, native API parity, role-aware routing and full localization.
+### DigitAcademy
+**AI Developer**
 
-`Next.js 15` `FastAPI` `Supabase` `TanStack Query`
+Building **AGENTIA CONNECT**, an applied AI platform. Agent design and orchestration, backend services in Python and FastAPI, and integration work connecting LLM agents to real business workflows.
+
+`Python` `LLM Agents` `FastAPI` `LangGraph`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AGENTIA CONNECT (Angelis Academy)
-Applied AI platform developed under a fixed-term engineering contract. Agent design, backend services and integration work.
+### Rahrawan Technical &amp; Engineering
+**Chief Technology Officer**
 
-`Python` `LLM Agents` `FastAPI`
+Owned the technical direction end to end: architecture decisions, stack selection, delivery planning and the engineering team. Shipped multiple client platforms on Django and FastAPI with Celery workers, Redis, PostgreSQL, Docker and CI/CD, plus the infrastructure they run on.
+
+`Django` `FastAPI` `Celery` `PostgreSQL` `Docker` `CI/CD`
 
 </td>
 <td width="50%" valign="top">
 
-### Gozaresha
-SaaS reporting platform for the construction sector. Full ownership from data model and backend to UI and deployment.
+### DANAPCO Inc.
+**Team Leader / Software Engineer**
 
-`Python` `SaaS` `PostgreSQL` `Docker`
+Led a development team and built backend and full-stack products in parallel. Code review, task breakdown, release planning and mentoring, while staying hands on with the codebase.
+
+`Python` `JavaScript` `PostgreSQL` `REST APIs` `Team Leadership`
 
 </td>
 </tr>
@@ -175,16 +164,27 @@ SaaS reporting platform for the construction sector. Full ownership from data mo
 
 ---
 
+## Things I build on my own time
+
+- **MandooEditor** — open-source WYSIWYG rich-text editor for React and Next.js. Zero runtime dependencies, under 300 KB.
+- **Reserve / Nowbati** — multi-tenant booking platform on Next.js 15, FastAPI and Supabase, including a full phased architectural refactor.
+- **Gozaresha** — SaaS reporting platform for the construction sector, owned from data model to deployment.
+- **Self-hosted infrastructure** — my own VPS fleet on OVH running Docker, Nginx reverse proxies and MinIO object storage.
+
+---
+
 ## GitHub in numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=markrahimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markrahimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=markrahimi&theme=dark&border_radius=5.6&card_width=500)](https://git.io/streak-stats)
 
-<img src="https://streak-stats.demolab.com?user=markrahimi&theme=tokyonight&hide_border=true&border_radius=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markrahimi&theme=dark" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=markrahimi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=markrahimi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markrahimi&hide_progress=true&theme=dark" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=markrahimi&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
